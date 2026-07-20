@@ -82,7 +82,7 @@ Search students using their GR Number and view:
 ![Dashboard](dashboard.png)
 
 ### Student Search
-![Student Search](student record search.png)
+![Student Search](student-search.png)
 
 ### Analytics
 ![Analytics](analytics.png)
