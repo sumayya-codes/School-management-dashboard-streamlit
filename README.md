@@ -98,6 +98,11 @@ streamlit run dashboard.py
 ```
 
 ---
+## 🔑 Demo Login
+
+**Username:** admin
+
+**Password:** 12345
 
 ## 👩‍💻 Author
 
