@@ -76,16 +76,16 @@ Search students using their GR Number and view:
 ## 📸 Screenshots
 
 ### Login Page
-(Add Screenshot Here)
+![Login Page](login.png)
 
 ### Dashboard
-(Add Screenshot Here)
+![Dashboard](dashboard.png)
 
 ### Student Search
-(Add Screenshot Here)
+![Student Search](student record search.png)
 
 ### Analytics
-(Add Screenshot Here)
+![Analytics](analytics.png)
 
 ---
 
